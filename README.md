@@ -11,4 +11,4 @@
 ./bin/main <case> <version>
 ```
 ## More detail
-> Please refer [2022_Fall_FinalProject_spec_v7.pdf](https://www.runoob.com) 
+> Please refer [2022_Fall_FinalProject_spec_v7.pdf](https://github.com/MR600hans/DS_Final_project/blob/main/2022_Fall_FinalProject_spec_v7.pdf) 
